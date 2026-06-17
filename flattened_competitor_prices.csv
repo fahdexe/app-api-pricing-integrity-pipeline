@@ -1,0 +1,24 @@
+merchant_id,merchant_name,item_id,name,competitor_price
+M_01,KFC,I_1001,Spicy Chicken Sandwich,12.36
+M_01,KFC,I_1002,Family Shawarma Platter,43.36
+M_01,KFC,I_1003,4pc Chicken Meal,15.82
+M_01,KFC,I_1004,Fresh Orange Juice,11.26
+M_01,KFC,I_1005,Large Fries,7.81
+M_01,KFC,I_1006,Cheese Fries,12.39
+M_02,BBQ Chicken,I_1007,4pc Chicken Meal,16.5
+M_02,BBQ Chicken,I_1008,Large Fries,5.51
+M_02,BBQ Chicken,I_1009,Fresh Orange Juice,8.17
+M_02,BBQ Chicken,I_1010,Family Shawarma Platter,45.39
+M_02,BBQ Chicken,I_1011,Classic Double Burger,23.88
+M_03,Kudu Style,I_1012,4pc Chicken Meal,16.0
+M_03,Kudu Style,I_1013,Cheese Fries,11.9
+M_03,Kudu Style,I_1014,Family Shawarma Platter,44.6
+M_03,Kudu Style,I_1015,Classic Double Burger,26.91
+M_04,Shawarma House,I_1016,Spicy Chicken Sandwich,11.86
+M_04,Shawarma House,I_1017,Classic Double Burger,26.72
+M_04,Shawarma House,I_1018,4pc Chicken Meal,20.81
+M_04,Shawarma House,I_1019,Family Shawarma Platter,46.95
+M_05,Burger Boutique,I_1020,4pc Chicken Meal,16.17
+M_05,Burger Boutique,I_1021,Family Shawarma Platter,45.22
+M_05,Burger Boutique,I_1022,Large Fries,4.69
+M_05,Burger Boutique,I_1023,Classic Double Burger,26.5
